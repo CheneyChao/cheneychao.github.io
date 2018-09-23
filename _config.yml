@@ -4,9 +4,9 @@ SEOTitle: 波波的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: auther.y.zhao@gmail.com
 description: "Attitude is everything"
-keyword: "Java, K8S, Microservice, English Learning, Financal, Finance, Entrepreneur, Innovation"
-url: "http://CheneyChao.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+keyword: "Java, K8S, Microservice, English Learning, Financal, Finance, Entrepreneur, Education, Innovation"
+url: "http://www.iedu.ink"          # your host, for absolute URL
+baseurl: "/blog"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/CheneyChao/CheneyChao.github.io.git" # you code repository
 
 # Sidebar settings
