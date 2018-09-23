@@ -5,14 +5,14 @@ header-img: img/post-bg-desk.jpg
 email: auther.y.zhao@gmail.com
 description: "Attitude is everything"
 keyword: "Java, K8S, Microservice, English Learning, Financal, Finance, Entrepreneur, Education, Innovation"
-url: "http://www.iedu.ink"          # your host, for absolute URL
-baseurl: "/blog"      # for example, '/blog' if your blog hosted on 'host/blog'
+url: "http://blog.iedu.pub"          # your host, for absolute URL
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/CheneyChao/CheneyChao.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/photo.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -50,28 +50,27 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: 
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: 5ccdc1b511746cf4e3ac                            #生成的clientID
+  clientSecret: e603f9e0fbf0f18a2442e148f4ccb98c7fce14e3    #生成的clientSecret
+  repo: CheneyChao.github.io    #仓库名称
+  owner: CheneyChao    #github用户名
+  admin: CheneyChao
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
-
 
 # 统计
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: fecea8e96d43346d269a4b113e7906b9
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_track_id: 'UA-126255220-1'            # Format: UA-xxxxxx-xx
+ga_domain: blog.iedu.pub             # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -92,12 +91,6 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
         title: "Apple",
         href: "https://apple.com"
     },{
